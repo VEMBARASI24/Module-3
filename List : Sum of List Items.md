@@ -1,4 +1,4 @@
-# List Operations in Python: Sum of List Items
+# 3a.List Operations in Python: Sum of List Items
 # Name: Vembarasi.A.R
 # Reg no: 212224220120
 
